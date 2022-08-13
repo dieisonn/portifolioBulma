@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.datail-logo{
+    color: #7b57ff;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.datail-logo-texto{
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 24px;
+    font-family:  'Poppins', sans-serif;
+}
+
+.navbar{
+    margin-bottom: 40px;
+}
+
+.card{
+    margin-bottom: 20px;
+}
