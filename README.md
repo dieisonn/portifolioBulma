@@ -11,11 +11,11 @@ Consiste basicamente em um portifólio desenvolvido usando o framework Bulma. Co
 ## Preview
 
 <div align="center">
-  <img src=""/>
+  <img src="https://user-images.githubusercontent.com/56199149/184510904-8428222c-4365-4fee-8ad9-03a540e0549e.PNG"/>
 </div>
 
 <div align="center">
-  <img src=""/>
+  <img src="https://user-images.githubusercontent.com/56199149/184510906-bcfdb468-804f-4f17-a71c-435475ea8ec8.PNG"/>
 </div>
 
 ## Documentação de cores
